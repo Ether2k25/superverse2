@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "General",
+    "slug": "general",
+    "description": "General blog posts",
+    "color": "#6366f1",
+    "createdAt": "2025-08-30T05:48:07.069Z",
+    "updatedAt": "2025-08-30T05:48:07.069Z"
+  },
+  {
+    "id": "2",
+    "name": "Technology",
+    "slug": "technology",
+    "description": "Tech-related articles",
+    "color": "#06b6d4",
+    "createdAt": "2025-08-30T05:48:07.069Z",
+    "updatedAt": "2025-08-30T05:48:07.069Z"
+  },
+  {
+    "id": "3",
+    "name": "Gaming",
+    "slug": "gaming",
+    "description": "Gaming and casino content",
+    "color": "#10b981",
+    "createdAt": "2025-08-30T05:48:07.069Z",
+    "updatedAt": "2025-08-30T05:48:07.069Z"
+  },
+  {
+    "id": "1756547417498g77egqzwk",
+    "name": "Cricket News",
+    "slug": "cricket-news",
+    "description": "All Cricket News You will get update here",
+    "color": "#6366f1",
+    "createdAt": "2025-08-30T09:50:17.498Z",
+    "updatedAt": "2025-08-30T09:50:17.498Z"
+  }
+]

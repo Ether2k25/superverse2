@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1756547546881c19686zqd",
+    "postId": "1756547485392m2ob4jsgk",
+    "content": "very good thanks for sharing ",
+    "author": {
+      "name": "Anonymous",
+      "isAnonymous": true
+    },
+    "createdAt": "2025-08-30T09:52:26.881Z",
+    "updatedAt": "2025-08-30T09:52:26.881Z",
+    "approved": true,
+    "replies": []
+  },
+  {
+    "id": "17565475872490sveqwn39",
+    "postId": "1756547485392m2ob4jsgk",
+    "content": "very good bro",
+    "author": {
+      "name": "monty",
+      "email": "monty@gmail.com",
+      "isAnonymous": false
+    },
+    "createdAt": "2025-08-30T09:53:07.249Z",
+    "updatedAt": "2025-08-30T09:53:07.249Z",
+    "approved": true,
+    "replies": []
+  }
+]

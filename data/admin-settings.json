@@ -1,0 +1,15 @@
+{
+  "siteName": "ICE SUPER Blog",
+  "siteDescription": "Casino Tech, Affiliate Growth & the Future of iGaming",
+  "siteUrl": "http://localhost:3002",
+  "adminEmail": "admin@icesuper.com",
+  "allowRegistration": true,
+  "maintenanceMode": false,
+  "maxFileSize": 10,
+  "allowedFileTypes": [
+    "image/jpeg",
+    "image/png",
+    "image/webp",
+    "image/gif"
+  ]
+}

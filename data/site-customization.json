@@ -1,0 +1,268 @@
+{
+  "hero": {
+    "title": "ICE SUPER Blog",
+    "subtitle": "Casino Tech, Affiliate Growth & the Future of iGaming",
+    "description": "Stay ahead of the curve with expert insights, cutting-edge technology trends, and proven strategies that drive success in the dynamic world of online gaming.",
+    "ctaText": "Explore Latest Insights",
+    "ctaLink": "www.icesuper.com",
+    "backgroundImage": ""
+  },
+  "navbar": {
+    "logo": "ICE SUPER",
+    "logoImage": "/uploads/17565382966621ufr247zf-1756538296661-logo.png",
+    "menuItems": [
+      {
+        "name": "Home",
+        "href": "/"
+      },
+      {
+        "name": "Blog",
+        "href": "/blog"
+      },
+      {
+        "name": "Categories",
+        "href": "/categories"
+      },
+      {
+        "name": "About",
+        "href": "/about"
+      },
+      {
+        "name": "Contact",
+        "href": "wa.link/icesuper"
+      }
+    ]
+  },
+  "footer": {
+    "companyName": "LLC",
+    "description": "Leading the future of iGaming with innovative technology and strategic insights.",
+    "copyright": "© 2024 ICE SUPER. All rights reserved.",
+    "socialLinks": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/icesuper",
+        "icon": "twitter"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/company/icesuper",
+        "icon": "linkedin"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/icesuper",
+        "icon": "github"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Platform",
+        "links": [
+          {
+            "name": "Features",
+            "href": "/features"
+          },
+          {
+            "name": "Pricing",
+            "href": "/pricing"
+          },
+          {
+            "name": "API Docs",
+            "href": "/api-docs"
+          },
+          {
+            "name": "Integrations",
+            "href": "/integrations"
+          }
+        ]
+      },
+      {
+        "title": "Resources",
+        "links": [
+          {
+            "name": "Blog",
+            "href": "/blog"
+          },
+          {
+            "name": "Case Studies",
+            "href": "/case-studies"
+          },
+          {
+            "name": "Whitepapers",
+            "href": "/whitepapers"
+          },
+          {
+            "name": "Webinars",
+            "href": "/webinars"
+          }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          {
+            "name": "About Us",
+            "href": "/about"
+          },
+          {
+            "name": "Careers",
+            "href": "/careers"
+          },
+          {
+            "name": "Contact",
+            "href": "/contact"
+          },
+          {
+            "name": "Press",
+            "href": "/press"
+          }
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          {
+            "name": "Privacy Policy",
+            "href": "/privacy"
+          },
+          {
+            "name": "Terms of Service",
+            "href": "/terms"
+          },
+          {
+            "name": "Cookie Policy",
+            "href": "/cookies"
+          },
+          {
+            "name": "Compliance",
+            "href": "/compliance"
+          }
+        ]
+      }
+    ],
+    "bottomLinks": [
+      {
+        "name": "Sitemap",
+        "href": "/sitemap"
+      },
+      {
+        "name": "RSS Feed",
+        "href": "/rss"
+      }
+    ],
+    "poweredBy": "Made with ❤️ by ICE SUPER",
+    "links": [
+      {
+        "name": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "name": "Terms of Service",
+        "href": "/terms"
+      },
+      {
+        "name": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "quickLinks": [
+      {
+        "name": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "name": "Terms of Service",
+        "href": "/terms"
+      },
+      {
+        "name": "Cookie Policy",
+        "href": "/cookies"
+      }
+    ],
+    "logoImage": "/uploads/17565382966621ufr247zf-1756538296661-logo.png"
+  },
+  "branding": {
+    "primaryColor": "#FFC300",
+    "secondaryColor": "#FFD700",
+    "backgroundColor": "#0A0A0A",
+    "textColor": "#FFFFFF",
+    "accentColor": "#FFC300",
+    "favicon": "/uploads/1756539883185jei46p0nj-1756539883185-WhatsAppImage2025-05-25at3.29.39PM.jpeg",
+    "customCSS": ""
+  },
+  "typography": {
+    "primaryFont": "Poppins",
+    "headingFont": "Poppins",
+    "fontSize": {
+      "base": "16px",
+      "heading": "2rem",
+      "small": "14px",
+      "medium": "16px",
+      "large": "18px",
+      "xlarge": "24px"
+    },
+    "bodyFont": "Inter",
+    "lineHeight": "1.6",
+    "baseFontSize": "16px"
+  },
+  "ctaButtons": {
+    "primary": {
+      "text": "Get Started",
+      "link": "/contact",
+      "style": "gradient"
+    },
+    "secondary": {
+      "text": "Learn More",
+      "link": "/about",
+      "style": "outline"
+    }
+  },
+  "seo": {
+    "title": "ICE SUPER - Casino Tech & Affiliate Growth",
+    "description": "Leading insights in casino technology, affiliate marketing, and iGaming innovation.",
+    "keywords": "iGaming, casino technology, affiliate marketing, online gaming, casino trends",
+    "ogImage": "/uploads/1756539883185jei46p0nj-1756539883185-WhatsAppImage2025-05-25at3.29.39PM.jpeg",
+    "twitterCard": "summary_large_image",
+    "metaTitle": "ICE SUPER Blog - Casino Tech & iGaming Future",
+    "metaDescription": "Stay ahead with expert insights on casino technology, affiliate growth strategies, and the future of iGaming industry.",
+    "favicon": "/favicon.ico"
+  },
+  "blog": {
+    "postsPerPage": "3",
+    "showAuthor": true,
+    "showDate": true,
+    "showCategories": true,
+    "showReadTime": true,
+    "enableComments": true,
+    "showExcerpts": true,
+    "enableSocialSharing": true,
+    "categories": [
+      "Technology",
+      "Strategy",
+      "Industry News",
+      "Affiliate Marketing",
+      "Casino Games",
+      "Regulation"
+    ],
+    "excerptLength": "250"
+  },
+  "contact": {
+    "email": "hello@icesuper.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "San Francisco, CA",
+    "socialMedia": {
+      "twitter": "https://twitter.com/icesuper",
+      "linkedin": "https://linkedin.com/company/icesuper",
+      "github": "https://github.com/icesuper"
+    }
+  },
+  "ctaBanner": {
+    "enabled": true,
+    "title": "Ready to Transform Your iGaming Strategy?",
+    "description": "Join thousands of industry professionals who trust ICE SUPER for the latest insights and innovations.",
+    "buttonText": "Get Started Today",
+    "buttonLink": "www.icesuper.com",
+    "backgroundColor": "#FFC300",
+    "textColor": "#0f0f0f"
+  }
+}

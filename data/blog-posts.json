@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1756534367340n60sas9k8",
+    "title": "Test1",
+    "slug": "test1",
+    "excerpt": "Test1",
+    "content": "Test1",
+    "tags": [
+      "asdf",
+      "qwe",
+      "qwer"
+    ],
+    "published": false,
+    "featuredImage": "http://localhost:3000/uploads/1753877450190-bonus-sport-desk.webp",
+    "date": "2025-08-30",
+    "author": "Admin",
+    "createdAt": "2025-08-30T06:12:47.340Z",
+    "updatedAt": "2025-08-30T10:04:31.692Z",
+    "views": 0,
+    "likes": 0,
+    "comments": [],
+    "seo": {
+      "metaTitle": "Test1",
+      "metaDescription": "Test1",
+      "keywords": [
+        "asdf",
+        "qwe",
+        "qwer"
+      ],
+      "ogImage": "http://localhost:3000/uploads/1753877450190-bonus-sport-desk.webp"
+    }
+  },
+  {
+    "id": "1756547485392m2ob4jsgk",
+    "title": "Pakistan vs Afghanistan, T20I Tri-Series Match 1: PAK clinch 39-run win despite shocking collapse of 5 wickets for just 4 runs.",
+    "slug": "pakistan-vs-afghanistan-t20i-tri-series-match-1-pak-clinch-39-run-win-despite-shocking-collapse-of-5-wickets-for-just-4-runs",
+    "excerpt": "PAK vs AFG, T20I Match Score: At Sharjah Cricket Stadium, Afghanistan chased a target of 183 set by Salman Agha’s Pakistan.\n",
+    "content": "Pakistan vs Afghanistan, UAE T20I Tri-Series 2025: Pakistan secured a 39-run victory over Afghanistan in the tournament opener at Sharjah on Friday night. Chasing 183, Afghanistan looked steady at 92/2, but a sudden collapse saw them lose five wickets for just four runs, stumbling to 97/7 within 17 balls. Haris Rauf and Sufiyan Muqeem claimed two wickets each during the dramatic slide.\n\nEarlier, Pakistan skipper Salman Ali Agha rescued his side with a composed half-century after they slipped to 83/4. Agha built a crucial 50-run stand with Mohammad Nawaz, helping Pakistan post 182 after a brisk start from the openers faded. Pakistan had won the toss and elected to bat first.\n\nAfghanistan vs Pakistan Preview: The two sides head into today’s clash in Sharjah carrying very different runs of form since the last T20 World Cup. Their strengths have shifted too, compared to when they last met two years ago. For Pakistan, this short tri-series against Afghanistan and the UAE is more than just match practice—it’s a crucial tune-up before the Asia Cup, and a chance to lift a side in transition out of looming crisis.\n\nPakistan, unpredictable as ever, come into the UAE under new captain Salman Ali Agha. Their limited-overs setup is unsettled, their results since the last World Cup inconsistent, and yet—ironically—they find themselves underdogs against an Afghan team that embraced that very tag during their historic World Cup semi-final run last year.\n\nFor Afghanistan, this is only their second T20I series since that milestone, but their recent record against Pakistan is impressive—winning three of the last four meetings. Pakistan, on the other hand, have struggled, losing four of their last seven bilateral T20I series since the 2024 World Cup disappointment. With a revamped central contracts list that lacks an ‘A’ category, the men in green face mounting pressure to prove they can rise again.\n\nSquads\n\nPakistan: Saim Ayub, Sahibzada Farhan, Fakhar Zaman, Mohammad Haris (wk), Salman Agha (c), Hasan Nawaz, Mohammad Nawaz, Faheem Ashraf, Hasan Ali, Shaheen Afridi, Sufiyan Muqeem, Hussain Talat, Abrar Ahmed, Khushdil Shah, Haris Rauf, Mohammad Wasim Jr, Salman Mirza.\n\nAfghanistan: Rahmanullah Gurbaz (wk), Sediqullah Atal, Ibrahim Zadran, Darwish Rasooli, Azmatullah Omarzai, Gulbadin Naib, Mohammad Nabi, Rashid Khan (c), Noor Ahmad, Mujeeb Ur Rahman, Fazalhaq Farooqi, Fareed Ahmad Malik, Sharafuddin Ashraf, Karim Janat, Mohammad Ishaq, AM Ghazanfar, Abdullah Ahmadzai.",
+    "tags": [
+      "#PAKvsAFG #T20ITriSeries #CricketPreview #AsiaCupPrep #SalmanAgha #RashidKhan #UAEcricket #CricketRivalry #T20IAction #PakistanCricket #AfghanistanCricket #SharjahCricket"
+    ],
+    "published": true,
+    "featuredImage": "https://images.indianexpress.com/2025/08/Pakistan-vs-Afghanistan_Match-1_T20I-Tri-Series-copy.jpg?w=750",
+    "date": "2025-08-30",
+    "author": "Admin",
+    "createdAt": "2025-08-30T09:51:25.392Z",
+    "updatedAt": "2025-08-30T09:51:25.392Z",
+    "views": 0,
+    "likes": 0,
+    "comments": [],
+    "seo": {
+      "metaTitle": "Pakistan vs Afghanistan, T20I Tri-Series Match 1: PAK clinch 39-run win despite shocking collapse of 5 wickets for just 4 runs.",
+      "metaDescription": "PAK vs AFG, T20I Match Score: At Sharjah Cricket Stadium, Afghanistan chased a target of 183 set by Salman Agha’s Pakistan.\n",
+      "keywords": [
+        "#PAKvsAFG #T20ITriSeries #CricketPreview #AsiaCupPrep #SalmanAgha #RashidKhan #UAEcricket #CricketRivalry #T20IAction #PakistanCricket #AfghanistanCricket #SharjahCricket"
+      ],
+      "ogImage": "https://images.indianexpress.com/2025/08/Pakistan-vs-Afghanistan_Match-1_T20I-Tri-Series-copy.jpg?w=750"
+    }
+  },
+  {
+    "id": "17565498531296ith2ibis",
+    "title": "Hello Everyone, My name is Ether",
+    "slug": "hello-everyone-my-name-is-ether",
+    "excerpt": "Hello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is Ether",
+    "content": "Hello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is Ether\nwww.icesuper.info  See also: [How to Write Better Content](/blog/content-writing)Download our [free guide](https://example.com/guide.pdf) here. [website](www.icesuper.info)",
+    "tags": [
+      "asdf"
+    ],
+    "published": true,
+    "date": "2025-08-30",
+    "author": "Admin",
+    "createdAt": "2025-08-30T10:30:53.129Z",
+    "updatedAt": "2025-08-30T10:31:56.827Z",
+    "views": 0,
+    "likes": 0,
+    "comments": [],
+    "seo": {
+      "metaTitle": "Hello Everyone, My name is Ether",
+      "metaDescription": "Hello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is EtherHello Everyone, My name is Ether",
+      "keywords": [],
+      "ogImage": null
+    },
+    "featuredImage": "/uploads/17565402625218go8gjw2t-1756540262521-image.png",
+    "categoryId": "1"
+  }
+]
