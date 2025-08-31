@@ -1,0 +1,212 @@
+/* Dynamic Theme CSS Variables */
+:root {
+  /* Default ICE SUPER theme colors */
+  --theme-primary: #FFC300;
+  --theme-secondary: #FFD700;
+  --theme-background: #0A0A0A;
+  --theme-text: #FFFFFF;
+  --theme-accent: #FFC300;
+  
+  /* RGB versions for opacity usage */
+  --theme-primary-rgb: 255, 195, 0;
+  --theme-secondary-rgb: 255, 215, 0;
+  --theme-accent-rgb: 255, 195, 0;
+  
+  /* Derived colors */
+  --theme-primary-10: rgba(var(--theme-primary-rgb), 0.1);
+  --theme-primary-20: rgba(var(--theme-primary-rgb), 0.2);
+  --theme-primary-30: rgba(var(--theme-primary-rgb), 0.3);
+  --theme-primary-50: rgba(var(--theme-primary-rgb), 0.5);
+  
+  --theme-secondary-10: rgba(var(--theme-secondary-rgb), 0.1);
+  --theme-secondary-20: rgba(var(--theme-secondary-rgb), 0.2);
+  --theme-secondary-30: rgba(var(--theme-secondary-rgb), 0.3);
+  
+  --theme-accent-10: rgba(var(--theme-accent-rgb), 0.1);
+  --theme-accent-20: rgba(var(--theme-accent-rgb), 0.2);
+  --theme-accent-30: rgba(var(--theme-accent-rgb), 0.3);
+}
+
+/* Theme-aware utility classes */
+.theme-bg-primary { background-color: var(--theme-primary); }
+.theme-bg-secondary { background-color: var(--theme-secondary); }
+.theme-bg-accent { background-color: var(--theme-accent); }
+.theme-bg-background { background-color: var(--theme-background); }
+
+.theme-text-primary { color: var(--theme-primary); }
+.theme-text-secondary { color: var(--theme-secondary); }
+.theme-text-accent { color: var(--theme-accent); }
+.theme-text-main { color: var(--theme-text); }
+
+.theme-border-primary { border-color: var(--theme-primary); }
+.theme-border-secondary { border-color: var(--theme-secondary); }
+.theme-border-accent { border-color: var(--theme-accent); }
+
+/* Gradient utilities */
+.theme-gradient {
+  background: linear-gradient(135deg, var(--theme-primary), var(--theme-secondary));
+}
+
+.theme-gradient-hover:hover {
+  background: linear-gradient(135deg, var(--theme-secondary), var(--theme-primary));
+}
+
+/* Button themes */
+.theme-btn-primary {
+  background-color: var(--theme-primary);
+  color: var(--theme-background);
+  border: 1px solid var(--theme-primary);
+}
+
+.theme-btn-primary:hover {
+  background-color: var(--theme-secondary);
+  border-color: var(--theme-secondary);
+}
+
+.theme-btn-outline {
+  background-color: transparent;
+  color: var(--theme-primary);
+  border: 1px solid var(--theme-primary);
+}
+
+.theme-btn-outline:hover {
+  background-color: var(--theme-primary);
+  color: var(--theme-background);
+}
+
+/* Admin panel theme overrides */
+.admin-theme {
+  --ice-yellow: var(--theme-primary);
+  --ice-yellow-rgb: var(--theme-primary-rgb);
+  --ice-white: var(--theme-text);
+  --ice-black: var(--theme-background);
+}
+
+.admin-theme .bg-ice-yellow { background-color: var(--theme-primary); }
+.admin-theme .text-ice-yellow { color: var(--theme-primary); }
+.admin-theme .border-ice-yellow { border-color: var(--theme-primary); }
+.admin-theme .bg-ice-yellow\/10 { background-color: var(--theme-primary-10); }
+.admin-theme .bg-ice-yellow\/20 { background-color: var(--theme-primary-20); }
+.admin-theme .border-ice-yellow\/20 { border-color: var(--theme-primary-20); }
+.admin-theme .border-ice-yellow\/30 { border-color: var(--theme-primary-30); }
+
+/* Frontend theme classes */
+.frontend-theme {
+  background-color: var(--theme-background);
+  color: var(--theme-text);
+}
+
+/* Override Tailwind classes with theme variables */
+.bg-ice-black { background-color: var(--theme-background) !important; }
+.bg-ice-yellow { background-color: var(--theme-primary) !important; }
+.text-ice-white { color: var(--theme-text) !important; }
+.text-ice-yellow { color: var(--theme-primary) !important; }
+.border-ice-yellow { border-color: var(--theme-primary) !important; }
+
+/* Additional theme utility classes */
+.theme-bg-primary\/10 { background-color: rgba(var(--theme-primary-rgb), 0.1) !important; }
+.theme-bg-primary\/20 { background-color: rgba(var(--theme-primary-rgb), 0.2) !important; }
+.theme-border-primary\/10 { border-color: rgba(var(--theme-primary-rgb), 0.1) !important; }
+.theme-border-primary\/20 { border-color: rgba(var(--theme-primary-rgb), 0.2) !important; }
+.theme-text-main\/50 { color: rgba(var(--theme-text), 0.5) !important; }
+.theme-text-main\/70 { color: rgba(var(--theme-text), 0.7) !important; }
+
+/* Gradient overrides for theme colors */
+.from-theme-primary\/20 { --tw-gradient-from: rgba(var(--theme-primary-rgb), 0.2) !important; }
+.to-theme-secondary\/20 { --tw-gradient-to: rgba(var(--theme-secondary-rgb), 0.2) !important; }
+
+/* Yellow gradient override */
+.yellow-gradient, .bg-yellow-gradient {
+  background: linear-gradient(135deg, var(--theme-primary), var(--theme-secondary)) !important;
+}
+
+/* Newsletter banner theme */
+.newsletter-banner {
+  background-color: var(--theme-primary) !important;
+  color: var(--theme-background) !important;
+}
+
+/* Blog card theme */
+.blog-card {
+  background-color: rgba(var(--theme-primary-rgb), 0.05);
+  border: 1px solid rgba(var(--theme-primary-rgb), 0.2);
+}
+
+.blog-card:hover {
+  border-color: var(--theme-primary);
+  box-shadow: 0 0 20px rgba(var(--theme-primary-rgb), 0.3);
+}
+
+/* Button overrides */
+.btn-primary {
+  background-color: var(--theme-primary) !important;
+  color: var(--theme-background) !important;
+  border-color: var(--theme-primary) !important;
+}
+
+.btn-primary:hover {
+  background-color: var(--theme-secondary) !important;
+  border-color: var(--theme-secondary) !important;
+}
+
+/* Search and filter overrides */
+.search-input {
+  background-color: rgba(var(--theme-background), 0.8) !important;
+  border-color: rgba(var(--theme-primary-rgb), 0.3) !important;
+  color: var(--theme-text) !important;
+}
+
+.search-input:focus {
+  border-color: var(--theme-primary) !important;
+}
+
+/* Navigation theme */
+.nav-link {
+  color: var(--theme-text) !important;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: var(--theme-primary) !important;
+}
+
+/* Card themes */
+.theme-card {
+  background-color: rgba(var(--theme-primary-rgb), 0.05);
+  border: 1px solid rgba(var(--theme-primary-rgb), 0.2);
+}
+
+.theme-card:hover {
+  background-color: rgba(var(--theme-primary-rgb), 0.1);
+  border-color: rgba(var(--theme-primary-rgb), 0.3);
+}
+
+/* Input themes */
+.theme-input {
+  background-color: rgba(var(--theme-background), 0.8);
+  border: 1px solid rgba(var(--theme-primary-rgb), 0.3);
+  color: var(--theme-text);
+}
+
+.theme-input:focus {
+  border-color: var(--theme-primary);
+  box-shadow: 0 0 0 2px rgba(var(--theme-primary-rgb), 0.2);
+}
+
+/* Navigation themes */
+.theme-nav {
+  background-color: rgba(var(--theme-background), 0.95);
+  backdrop-filter: blur(10px);
+}
+
+.theme-nav-link {
+  color: var(--theme-text);
+}
+
+.theme-nav-link:hover {
+  color: var(--theme-primary);
+}
+
+.theme-nav-active {
+  color: var(--theme-primary);
+  border-bottom: 2px solid var(--theme-primary);
+}

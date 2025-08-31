@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import '../styles/theme.css';
+
+@layer base {
+  * {
+    @apply border-gray-200;
+  }
+  body {
+    background-color: var(--theme-background) !important;
+    color: var(--theme-text) !important;
+    @apply font-sans;
+  }
+}
+
+@layer components {
+  .spotlight-glow {
+    background: radial-gradient(ellipse at center, rgba(255, 195, 0, 0.3) 0%, rgba(255, 195, 0, 0.1) 40%, transparent 70%);
+  }
+  
+  .card-hover {
+    transition: all 0.3s ease;
+  }
+  
+  .card-hover:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 20px rgba(255, 195, 0, 0.4);
+    border-color: #FFC300;
+  }
+  
+  .cta-button {
+    @apply bg-yellow-gradient text-ice-black font-semibold px-6 py-3 rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-lg;
+  }
+  
+  .nav-link {
+    @apply text-ice-white hover:text-ice-yellow transition-colors duration-300 relative;
+  }
+  
+  .nav-link::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -4px;
+    left: 0;
+    background-color: #FFC300;
+    transition: width 0.3s ease;
+  }
+  
+  .nav-link:hover::after {
+    width: 100%;
+  }
+  
+  .filter-pill {
+    @apply border border-ice-yellow text-ice-white px-4 py-2 rounded-full transition-all duration-300 hover:bg-ice-yellow hover:text-ice-black cursor-pointer;
+  }
+  
+  .filter-pill.active {
+    @apply bg-ice-yellow text-ice-black;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f0f0f;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FFC300;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #FFD700;
+}
